@@ -4,14 +4,14 @@
       "id": "1",
       "title": "Essence Mascara Lash Princess",
       "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-      "category": "beauty",
+      "category": "makeup",
       "price": 9.99,
       "discountPercentage": 7.17,
       "rating": 4.94,
       "stock": 5,
       "tags": [
         "beauty",
-        "mascara"
+        "mascara","makeup"
       ],
       "brand": "Essence",
       "sku": "RCH45Q1A",
@@ -64,7 +64,7 @@
       "id": "2",
       "title": "Eyeshadow Palette with Mirror",
       "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-      "category": "beauty",
+      "category": "makeup",
       "price": 19.99,
       "discountPercentage": 5.5,
       "rating": 3.28,
@@ -124,7 +124,7 @@
       "id": "3",
       "title": "Powder Canister",
       "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
-      "category": "beauty",
+      "category": "makeup",
       "price": 14.99,
       "discountPercentage": 18.14,
       "rating": 3.82,
@@ -184,7 +184,7 @@
       "id": "4",
       "title": "Red Lipstick",
       "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-      "category": "beauty",
+      "category": "makeup",
       "price": 12.99,
       "discountPercentage": 19.03,
       "rating": 2.51,
@@ -244,7 +244,7 @@
       "id": "5",
       "title": "Red Nail Polish",
       "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
-      "category": "beauty",
+      "category": "makeup",
       "price": 8.99,
       "discountPercentage": 2.46,
       "rating": 3.91,
@@ -17090,5 +17090,351 @@
       },
       "status": "pending"
     }
-  ]
+  ],
+    "categories":[
+      {
+        "id": 1,
+        "title": "Beauty & Personal Care",
+        "slug": "beauty-personal-care",
+        "images": [
+          {
+            "src": "/images/beauty_1.jpg",
+            "title": "Luxury Beauty Products",
+            "prompt": "A collection of high-end beauty products including serums, creams, and makeup, arranged on an elegant vanity with a focus on sophistication."
+          },
+          {
+            "src": "/images/beauty_2.jpg",
+            "title": "Daily Skincare",
+            "prompt": "An assortment of daily skincare products such as cleansers, toners, and moisturizers, displayed in a modern setting that highlights their essential role."
+          },
+          {
+            "src": "/images/beauty_3.jpg",
+            "title": "Makeup Essentials",
+            "prompt": "A variety of makeup products including foundations, lipsticks, and eyeshadows, arranged in a stylish display that emphasizes their versatility and appeal."
+          },
+          {
+            "src": "/images/beauty_4.jpg",
+            "title": "Hair Care",
+            "prompt": "Various hair care products including shampoos, conditioners, and styling tools, showcased in a clean and organized manner."
+          }
+        ],
+        "count": 180,
+        "subCategories": [
+          {
+            "id": 1,
+            "title": "Skincare",
+            "slug": "skincare",
+            "count": 40,
+            "src": "/images/beauty/skincare.jpg",
+            "prompt": "An assortment of skincare products including cleansers, toners, and moisturizers, displayed in a modern and elegant setup."
+          },
+          {
+            "id": 2,
+            "title": "Makeup",
+            "slug": "makeup",
+            "count": 40,
+            "src": "/images/beauty/makeup.jpg",
+            "prompt": "A variety of makeup products such as foundations, lipsticks, and eyeshadows, arranged in a chic display."
+          },
+          {
+            "id": 3,
+            "title": "Hair Care",
+            "slug": "hair-care",
+            "count": 30,
+            "src": "/images/beauty/hair-care.jpg",
+            "prompt": "Different hair care products including shampoos and conditioners, displayed neatly to highlight their features."
+          },
+          {
+            "id": 4,
+            "title": "Fragrances",
+            "slug": "fragrances",
+            "count": 30,
+            "src": "/images/beauty/fragrances.jpg",
+            "prompt": "An assortment of luxury and daily use fragrances, arranged attractively to showcase their appeal."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Fashion & Accessories",
+        "slug": "fashion-accessories",
+        "images": [
+          {
+            "src": "/images/fashion_1.jpg",
+            "title": "Men's Clothing",
+            "prompt": "A selection of men's shirts, shoes, and watches, displayed to highlight their style and quality in a modern setting."
+          },
+          {
+            "src": "/images/fashion_2.jpg",
+            "title": "Women's Clothing",
+            "prompt": "Various women's dresses, bags, shoes, and jewelry, arranged to showcase their fashion and elegance."
+          },
+          {
+            "src": "/images/fashion_3.jpg",
+            "title": "Sunglasses & Accessories",
+            "prompt": "A range of stylish sunglasses and other fashion accessories, displayed to emphasize their appeal and design."
+          },
+          {
+            "src": "/images/fashion_4.jpg",
+            "title": "Sports Accessories",
+            "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style."
+          }
+        ],
+        "count": 160,
+        "subCategories": [
+          {
+            "id": 1,
+            "title": "Men's Shirts",
+            "slug": "mens-shirts",
+            "count": 30,
+            "src": "/images/fashion/mens-shirts.jpg",
+            "prompt": "A variety of men's shirts including casual and formal styles, arranged to showcase their fashion and quality."
+          },
+          {
+            "id": 2,
+            "title": "Men's Shoes",
+            "slug": "mens-shoes",
+            "count": 30,
+            "src": "/images/fashion/mens-shoes.jpg",
+            "prompt": "Different styles of men's shoes including formal and casual options, displayed to highlight their design."
+          },
+          {
+            "id": 3,
+            "title": "Men's Watches",
+            "slug": "mens-watches",
+            "count": 20,
+            "src": "/images/fashion/mens-watches.jpg",
+            "prompt": "Various men's watches with elegant designs and advanced features, arranged attractively."
+          },
+          {
+            "id": 4,
+            "title": "Women's Bags",
+            "slug": "womens-bags",
+            "count": 25,
+            "src": "/images/fashion/womens-bags.jpg",
+            "prompt": "Stylish women's bags including handbags and totes, displayed to emphasize their fashion appeal."
+          },
+          {
+            "id": 5,
+            "title": "Women's Dresses",
+            "slug": "womens-dresses",
+            "count": 25,
+            "src": "/images/fashion/womens-dresses.jpg",
+            "prompt": "Elegant women's dresses for various occasions, arranged to showcase their style and beauty."
+          },
+          {
+            "id": 6,
+            "title": "Women's Shoes",
+            "slug": "womens-shoes",
+            "count": 20,
+            "src": "/images/fashion/womens-shoes.jpg",
+            "prompt": "Different styles of women's shoes including heels and flats, displayed to highlight their design."
+          },
+          {
+            "id": 7,
+            "title": "Women's Jewelry",
+            "slug": "womens-jewelry",
+            "count": 20,
+            "src": "/images/fashion/womens-jewelry.jpg",
+            "prompt": "A collection of women's jewelry including necklaces, earrings, and bracelets, arranged to showcase their elegance."
+          },
+          {
+            "id": 8,
+            "title": "Sunglasses",
+            "slug": "sunglasses",
+            "count": 15,
+            "src": "/images/fashion/sunglasses.jpg",
+            "prompt": "Stylish sunglasses with various designs, displayed to emphasize their fashion and protection features."
+          },
+          {
+            "id": 9,
+            "title": "Sports Accessories",
+            "slug": "sports-accessories",
+            "count": 20, 
+            "src": "/images/fashion/sports-accessories.jpg",
+            "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Electronics Items",
+        "slug": "electronics",
+        "images": [
+          {
+            "src": "/images/electronics_1.jpg",
+            "title": "Smartphones & Tablets",
+            "prompt": "A range of smartphones and tablets featuring modern technology and sleek designs, arranged to highlight their advanced features."
+          },
+          {
+            "src": "/images/electronics_2.jpg",
+            "title": "Laptops & Accessories",
+            "prompt": "Various laptops and their accessories including cases and docking stations, showcased to emphasize their performance and functionality."
+          },
+          {
+            "src": "/images/electronics_3.jpg",
+            "title": "Mobile Accessories",
+            "prompt": "A variety of mobile accessories including chargers, cases, and headphones, displayed to highlight their practicality."
+          },
+          {
+            "src": "/images/electronics_4.jpg",
+            "title": "Wearable Tech",
+            "prompt": "Different wearable tech products such as smartwatches and fitness trackers, displayed to showcase their modern features and sleek designs."
+          }
+        ],
+        "count": 140,
+        "subCategories": [
+          {
+            "id": 1,
+            "title": "Smartphones",
+            "slug": "smartphones",
+            "count": 30,
+            "src": "/images/electronics/smartphones.jpg",
+            "prompt": "Latest smartphone models featuring sleek designs and advanced technology."
+          },
+          {
+            "id": 2,
+            "title": "Tablets",
+            "slug": "tablets",
+            "count": 20,
+            "src": "/images/electronics/tablets.jpg",
+            "prompt": "Various tablets with modern features and stylish designs, perfect for personal and professional use."
+          },
+          {
+            "id": 3,
+            "title": "Laptops",
+            "slug": "laptops",
+            "count": 30,
+            "src": "/images/electronics/laptops.jpg",
+            "prompt": "Various laptops with advanced features and stylish designs, perfect for work and leisure."
+          },
+          {
+            "id": 4,
+            "title": "Mobile Accessories",
+            "slug": "mobile-accessories",
+            "count": 30,
+            "src": "/images/electronics/mobile-accessories.jpg",
+            "prompt": "An assortment of mobile accessories including chargers and cases, displayed in an organized manner."
+          },
+          {
+            "id": 5,
+            "title": "Wearable Tech",
+            "slug": "wearable-tech",
+            "count": 30,
+            "src": "/images/electronics/wearable-tech.jpg",
+            "prompt": "Wearable tech products like smartwatches and fitness trackers, showcasing their modern features."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Home & Kitchen",
+        "slug": "home-kitchen",
+        "images": [
+          {
+            "src": "/images/home-kitchen_1.jpg",
+            "title": "Furniture",
+            "prompt": "A modern living room setup with sleek furniture, including a stylish sofa, coffee table, and decor items, creating a sophisticated and inviting space."
+          },
+          {
+            "src": "/images/home-kitchen_2.jpg",
+            "title": "Kitchen Accessories",
+            "prompt": "Practical and stylish kitchen accessories including utensils, pots, and gadgets, arranged to highlight their functionality and design."
+          },
+          {
+            "src": "/images/home-kitchen_3.jpg",
+            "title": "Home Decor",
+            "prompt": "Elegant home decor items such as vases, lamps, and picture frames, arranged to enhance a modern living space."
+          },
+          {
+            "src": "/images/home-kitchen_4.jpg",
+            "title": "Outdoor Furniture",
+            "prompt": "Stylish outdoor furniture pieces including chairs and tables, arranged on a patio to emphasize comfort and style in an outdoor setting."
+          }
+        ],
+        "count": 160,
+        "subCategories": [
+          {
+            "id": 1,
+            "title": "Furniture",
+            "slug": "furniture",
+            "count": 40,
+            "src": "/images/home-kitchen/furniture.jpg",
+            "prompt": "Modern furniture pieces arranged in a sophisticated living room setup."
+          },
+          {
+            "id": 2,
+            "title": "Kitchen Accessories",
+            "slug": "kitchen-accessories",
+            "count": 40,
+            "src": "/images/home-kitchen/kitchen-accessories.jpg",
+            "prompt": "Practical kitchen accessories including utensils and gadgets, displayed in a clean and organized manner."
+          },
+          {
+            "id": 3,
+            "title": "Home Decor",
+            "slug": "home-decor",
+            "count": 40,
+            "src": "/images/home-kitchen/home-decor.jpg",
+            "prompt": "Elegant home decor items such as vases and picture frames, arranged to enhance a modern living space."
+          },
+          {
+            "id": 4,
+            "title": "Outdoor Furniture",
+            "slug": "outdoor-furniture",
+            "count": 40,
+            "src": "/images/home-kitchen/outdoor-furniture.jpg",
+            "prompt": "Stylish outdoor furniture pieces arranged on a patio, emphasizing comfort and design."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Automotive",
+        "slug": "automotive",
+        "images": [
+          {
+            "src": "/images/automotive_1.jpg",
+            "title": "Motorcycles",
+            "prompt": "A variety of motorcycles with modern designs and features, displayed to highlight their performance and style."
+          },
+          {
+            "src": "/images/automotive_2.jpg",
+            "title": "Vehicle Accessories",
+            "prompt": "Different vehicle accessories including car parts and gadgets, arranged to emphasize their functionality and utility."
+          },
+          {
+            "src": "/images/automotive_3.jpg",
+            "title": "Cars",
+            "prompt": "A selection of modern cars showcasing various models and designs, highlighted to emphasize their advanced technology and style."
+          },
+          {
+            "src": "/images/automotive_4.jpg",
+            "title": "Car Maintenance Tools",
+            "prompt": "Essential car maintenance tools including wrenches, screwdrivers, and diagnostic equipment, displayed to emphasize their utility and importance for vehicle care."
+          }
+        ],
+        "count": 100,
+        "subCategories": [
+          {
+            "id": 1,
+            "title": "Motorcycles",
+            "slug": "motorcycle",
+            "count": 50,
+            "src": "/images/automotive/motorcycles.jpg",
+            "prompt": "Modern motorcycles with sleek designs and advanced features."
+          },
+          {
+            "id": 2,
+            "title": "Vehicle Accessories",
+            "slug": "vehicle",
+            "count": 50,
+            "src": "/images/automotive/vehicle-accessories.jpg",
+            "prompt": "Various vehicle accessories including car parts and gadgets, displayed to highlight their utility."
+          }
+        ]
+      }
+    ]
+
+
 }
