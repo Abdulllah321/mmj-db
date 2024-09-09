@@ -11,7 +11,8 @@
       "stock": 5,
       "tags": [
         "beauty",
-        "mascara","makeup"
+        "mascara",
+        "makeup"
       ],
       "brand": "Essence",
       "sku": "RCH45Q1A",
@@ -12330,855 +12331,6 @@
       "quantity": 1
     },
     {
-      "id": "db99",
-      "userId": "4885",
-      "product": {
-        "id": 12,
-        "title": "Annibale Colombo Sofa",
-        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
-        "category": "furniture",
-        "price": 2499.99,
-        "discountPercentage": 18.54,
-        "rating": 3.08,
-        "stock": 16,
-        "tags": [
-          "furniture",
-          "sofas"
-        ],
-        "brand": "Annibale Colombo",
-        "sku": "LUU95CQP",
-        "weight": 3,
-        "dimensions": {
-          "width": 20.97,
-          "height": 19.11,
-          "depth": 25.81
-        },
-        "warrantyInformation": "1 month warranty",
-        "shippingInformation": "Ships overnight",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Tyler Davis",
-            "reviewerEmail": "tyler.davis@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Hannah Robinson",
-            "reviewerEmail": "hannah.robinson@x.dummyjson.com"
-          },
-          {
-            "rating": 3,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Madison Collins",
-            "reviewerEmail": "madison.collins@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.620Z",
-          "updatedAt": "2024-05-23T08:56:21.620Z",
-          "barcode": "0426785817074",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "b451",
-      "userId": "4885",
-      "product": {
-        "id": 4,
-        "title": "Red Lipstick",
-        "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-        "category": "beauty",
-        "price": 12.99,
-        "discountPercentage": 19.03,
-        "rating": 2.51,
-        "stock": 68,
-        "tags": [
-          "beauty",
-          "lipstick"
-        ],
-        "brand": "Chic Cosmetics",
-        "sku": "O5IF1NTA",
-        "weight": 5,
-        "dimensions": {
-          "width": 14.37,
-          "height": 13.94,
-          "depth": 14.6
-        },
-        "warrantyInformation": "Lifetime warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Great product!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Leo Rivera",
-            "reviewerEmail": "leo.rivera@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Oscar Powers",
-            "reviewerEmail": "oscar.powers@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Carter Rivera",
-            "reviewerEmail": "carter.rivera@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "90 days return policy",
-        "minimumOrderQuantity": 6,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "9444582199406",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "f192",
-      "userId": "4885",
-      "product": {
-        "id": "6",
-        "title": "Calvin Klein CK One",
-        "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
-        "category": "fragrances",
-        "price": 49.99,
-        "discountPercentage": 0.32,
-        "rating": 4.85,
-        "stock": 17,
-        "tags": [
-          "fragrances",
-          "perfumes"
-        ],
-        "brand": "Calvin Klein",
-        "sku": "DZM2JQZE",
-        "weight": 5,
-        "dimensions": {
-          "width": 11.53,
-          "height": 14.44,
-          "depth": 6.81
-        },
-        "warrantyInformation": "5 year warranty",
-        "shippingInformation": "Ships overnight",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Great value for money!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Sophia Brown",
-            "reviewerEmail": "sophia.brown@x.dummyjson.com"
-          },
-          {
-            "rating": 3,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Madison Collins",
-            "reviewerEmail": "madison.collins@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Poor quality!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Maya Reed",
-            "reviewerEmail": "maya.reed@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "No return policy",
-        "minimumOrderQuantity": 20,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "2210136215089",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "0795",
-      "userId": "4885",
-      "product": {
-        "id": "2",
-        "title": "Eyeshadow Palette with Mirror",
-        "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-        "category": "beauty",
-        "price": 19.99,
-        "discountPercentage": 5.5,
-        "rating": 3.28,
-        "stock": 44,
-        "tags": [
-          "beauty",
-          "eyeshadow"
-        ],
-        "brand": "Glamour Beauty",
-        "sku": "MVCFH27F",
-        "weight": 3,
-        "dimensions": {
-          "width": 12.42,
-          "height": 8.63,
-          "depth": 29.13
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Liam Garcia",
-            "reviewerEmail": "liam.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Nora Russell",
-            "reviewerEmail": "nora.russell@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Elena Baker",
-            "reviewerEmail": "elena.baker@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 32,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.618Z",
-          "updatedAt": "2024-05-23T08:56:21.618Z",
-          "barcode": "2817839095220",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "eeb0",
-      "userId": "4885",
-      "product": {
-        "id": "4",
-        "title": "Red Lipstick",
-        "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-        "category": "beauty",
-        "price": 12.99,
-        "discountPercentage": 19.03,
-        "rating": 2.51,
-        "stock": 68,
-        "tags": [
-          "beauty",
-          "lipstick"
-        ],
-        "brand": "Chic Cosmetics",
-        "sku": "O5IF1NTA",
-        "weight": 5,
-        "dimensions": {
-          "width": 14.37,
-          "height": 13.94,
-          "depth": 14.6
-        },
-        "warrantyInformation": "Lifetime warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Great product!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Leo Rivera",
-            "reviewerEmail": "leo.rivera@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Oscar Powers",
-            "reviewerEmail": "oscar.powers@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Carter Rivera",
-            "reviewerEmail": "carter.rivera@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "90 days return policy",
-        "minimumOrderQuantity": 6,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "9444582199406",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "6b5a",
-      "userId": "4885",
-      "product": {
-        "id": "1",
-        "title": "Essence Mascara Lash Princess",
-        "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-        "category": "beauty",
-        "price": 9.99,
-        "discountPercentage": 7.17,
-        "rating": 4.94,
-        "stock": 5,
-        "tags": [
-          "beauty",
-          "mascara"
-        ],
-        "brand": "Essence",
-        "sku": "RCH45Q1A",
-        "weight": 2,
-        "dimensions": {
-          "width": 23.17,
-          "height": 14.43,
-          "depth": 28.01
-        },
-        "warrantyInformation": "1 month warranty",
-        "shippingInformation": "Ships in 1 month",
-        "availabilityStatus": "Low Stock",
-        "reviews": [
-          {
-            "rating": 2,
-            "comment": "Very unhappy with my purchase!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "John Doe",
-            "reviewerEmail": "john.doe@x.dummyjson.com"
-          },
-          {
-            "rating": 2,
-            "comment": "Not as described!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Nolan Gonzalez",
-            "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Scarlett Wright",
-            "reviewerEmail": "scarlett.wright@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 24,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.618Z",
-          "updatedAt": "2024-05-23T08:56:21.618Z",
-          "barcode": "9164035109868",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "9981",
-      "userId": "779d",
-      "product": {
-        "id": 12,
-        "title": "Annibale Colombo Sofa",
-        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
-        "category": "furniture",
-        "price": 2499.99,
-        "discountPercentage": 18.54,
-        "rating": 3.08,
-        "stock": 16,
-        "tags": [
-          "furniture",
-          "sofas"
-        ],
-        "brand": "Annibale Colombo",
-        "sku": "LUU95CQP",
-        "weight": 3,
-        "dimensions": {
-          "width": 20.97,
-          "height": 19.11,
-          "depth": 25.81
-        },
-        "warrantyInformation": "1 month warranty",
-        "shippingInformation": "Ships overnight",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Tyler Davis",
-            "reviewerEmail": "tyler.davis@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Hannah Robinson",
-            "reviewerEmail": "hannah.robinson@x.dummyjson.com"
-          },
-          {
-            "rating": 3,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Madison Collins",
-            "reviewerEmail": "madison.collins@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.620Z",
-          "updatedAt": "2024-05-23T08:56:21.620Z",
-          "barcode": "0426785817074",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "6fe4",
-      "userId": "779d",
-      "product": {
-        "id": "2",
-        "title": "Eyeshadow Palette with Mirror",
-        "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-        "category": "beauty",
-        "price": 19.99,
-        "discountPercentage": 5.5,
-        "rating": 3.28,
-        "stock": 44,
-        "tags": [
-          "beauty",
-          "eyeshadow"
-        ],
-        "brand": "Glamour Beauty",
-        "sku": "MVCFH27F",
-        "weight": 3,
-        "dimensions": {
-          "width": 12.42,
-          "height": 8.63,
-          "depth": 29.13
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Liam Garcia",
-            "reviewerEmail": "liam.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Nora Russell",
-            "reviewerEmail": "nora.russell@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Elena Baker",
-            "reviewerEmail": "elena.baker@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 32,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.618Z",
-          "updatedAt": "2024-05-23T08:56:21.618Z",
-          "barcode": "2817839095220",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "a6d8",
-      "userId": "779d",
-      "product": {
-        "id": "39",
-        "title": "Soft Drinks",
-        "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
-        "category": "groceries",
-        "price": 1.99,
-        "discountPercentage": 1.88,
-        "rating": 4.59,
-        "stock": 78,
-        "tags": [
-          "beverages"
-        ],
-        "sku": "I1ZNSLXJ",
-        "weight": 9,
-        "dimensions": {
-          "width": 15.73,
-          "height": 24.93,
-          "depth": 27.19
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 3-5 business days",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 3,
-            "comment": "Very dissatisfied!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Ella Cook",
-            "reviewerEmail": "ella.cook@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Liam Garcia",
-            "reviewerEmail": "liam.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Awesome product!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Autumn Gomez",
-            "reviewerEmail": "autumn.gomez@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "90 days return policy",
-        "minimumOrderQuantity": 41,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.621Z",
-          "updatedAt": "2024-05-23T08:56:21.621Z",
-          "barcode": "3523564932164",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "dddd",
-      "userId": "779d",
-      "product": {
-        "id": "79",
-        "title": "Asus Zenbook Pro Dual Screen Laptop",
-        "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
-        "category": "laptops",
-        "price": 1799.99,
-        "discountPercentage": 9.21,
-        "rating": 3.14,
-        "stock": 38,
-        "tags": [
-          "laptops"
-        ],
-        "brand": "Asus",
-        "sku": "4A9KFMBG",
-        "weight": 8,
-        "dimensions": {
-          "width": 19.67,
-          "height": 11.05,
-          "depth": 14.32
-        },
-        "warrantyInformation": "No warranty",
-        "shippingInformation": "Ships in 3-5 business days",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.622Z",
-            "reviewerName": "Jack Ward",
-            "reviewerEmail": "jack.ward@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.622Z",
-            "reviewerName": "Ava Harris",
-            "reviewerEmail": "ava.harris@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Great value for money!",
-            "date": "2024-05-23T08:56:21.622Z",
-            "reviewerName": "Brayden Fleming",
-            "reviewerEmail": "brayden.fleming@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "No return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.622Z",
-          "updatedAt": "2024-05-23T08:56:21.622Z",
-          "barcode": "2899455033799",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png",
-          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/2.png",
-          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "5855",
-      "userId": "779d",
-      "product": {
-        "id": "27",
-        "title": "Honey Jar",
-        "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
-        "category": "groceries",
-        "price": 6.99,
-        "discountPercentage": 1.91,
-        "rating": 3.5,
-        "stock": 25,
-        "tags": [
-          "condiments"
-        ],
-        "sku": "BTBNIIOU",
-        "weight": 9,
-        "dimensions": {
-          "width": 26.53,
-          "height": 27.11,
-          "depth": 6.63
-        },
-        "warrantyInformation": "2 year warranty",
-        "shippingInformation": "Ships overnight",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Fast shipping!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Nicholas Bailey",
-            "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Awesome product!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Gabriel Hayes",
-            "reviewerEmail": "gabriel.hayes@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "James Garcia",
-            "reviewerEmail": "james.garcia@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "90 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.620Z",
-          "updatedAt": "2024-05-23T08:56:21.620Z",
-          "barcode": "0668665656044",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "ff44",
-      "userId": "779d",
-      "product": {
-        "id": "47",
-        "title": "Table Lamp",
-        "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
-        "category": "home-decoration",
-        "price": 49.99,
-        "discountPercentage": 0.59,
-        "rating": 4.56,
-        "stock": 84,
-        "tags": [
-          "home decor",
-          "lighting"
-        ],
-        "sku": "0K9UDIUB",
-        "weight": 2,
-        "dimensions": {
-          "width": 29.6,
-          "height": 19.68,
-          "depth": 10.12
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 3,
-            "comment": "Not worth the price!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Mateo Nguyen",
-            "reviewerEmail": "mateo.nguyen@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "James Garcia",
-            "reviewerEmail": "james.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Henry Turner",
-            "reviewerEmail": "henry.turner@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 10,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.621Z",
-          "updatedAt": "2024-05-23T08:56:21.621Z",
-          "barcode": "7764806947768",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
-      "id": "276b",
-      "userId": "779d",
-      "product": {
-        "id": "9",
-        "title": "Dolce Shine Eau de",
-        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
-        "category": "fragrances",
-        "price": 69.99,
-        "discountPercentage": 11.47,
-        "rating": 2.68,
-        "stock": 3,
-        "tags": [
-          "fragrances",
-          "perfumes"
-        ],
-        "brand": "Dolce & Gabbana",
-        "sku": "1NBFK980",
-        "weight": 5,
-        "dimensions": {
-          "width": 17,
-          "height": 24.57,
-          "depth": 13.3
-        },
-        "warrantyInformation": "5 year warranty",
-        "shippingInformation": "Ships in 1-2 business days",
-        "availabilityStatus": "Low Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Xavier Wright",
-            "reviewerEmail": "xavier.wright@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Poor quality!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Mila Hernandez",
-            "reviewerEmail": "mila.hernandez@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very happy with my purchase!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Sophia Brown",
-            "reviewerEmail": "sophia.brown@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 9,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "1939383392674",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
-      },
-      "quantity": 1
-    },
-    {
       "id": "4770",
       "userId": "0bc3",
       "product": {
@@ -13636,6 +12788,273 @@
       },
       "quantity": 1,
       "id": "DBVP5k2"
+    },
+    {
+      "userId": "edfe",
+      "product": {
+        "id": "182",
+        "title": "Green Crystal Earring",
+        "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+        "category": "womens-jewellery",
+        "price": 29.99,
+        "discountPercentage": 2.58,
+        "rating": 2.94,
+        "stock": 1,
+        "tags": [
+          "fashion accessories",
+          "earrings"
+        ],
+        "sku": "O7LSKAP2",
+        "weight": 10,
+        "dimensions": {
+          "width": 19.73,
+          "height": 14.54,
+          "depth": 15.92
+        },
+        "warrantyInformation": "3 year warranty",
+        "shippingInformation": "Ships in 1 month",
+        "availabilityStatus": "Low Stock",
+        "reviews": [
+          {
+            "rating": 3,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "James Garcia",
+            "reviewerEmail": "james.garcia@x.dummyjson.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Grayson Coleman",
+            "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Waste of money!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Nolan Bryant",
+            "reviewerEmail": "nolan.bryant@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 17,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.627Z",
+          "updatedAt": "2024-05-23T08:56:21.627Z",
+          "barcode": "1370841315431",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/1.png",
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/2.png",
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
+      },
+      "quantity": 1,
+      "id": "U1Z8ZO6"
+    },
+    {
+      "userId": "edfe",
+      "product": {
+        "id": "9",
+        "title": "Dolce Shine Eau de",
+        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+        "category": "fragrances",
+        "price": 69.99,
+        "discountPercentage": 11.47,
+        "rating": 2.68,
+        "stock": 3,
+        "tags": [
+          "fragrances",
+          "perfumes"
+        ],
+        "brand": "Dolce & Gabbana",
+        "sku": "1NBFK980",
+        "weight": 5,
+        "dimensions": {
+          "width": 17,
+          "height": 24.57,
+          "depth": 13.3
+        },
+        "warrantyInformation": "5 year warranty",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "Low Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very satisfied!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Xavier Wright",
+            "reviewerEmail": "xavier.wright@x.dummyjson.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Poor quality!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Mila Hernandez",
+            "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Very happy with my purchase!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Sophia Brown",
+            "reviewerEmail": "sophia.brown@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 9,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.619Z",
+          "updatedAt": "2024-05-23T08:56:21.619Z",
+          "barcode": "1939383392674",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+      },
+      "quantity": 1,
+      "id": "dhP2cG-"
+    },
+    {
+      "userId": "edfe",
+      "product": {
+        "id": 129,
+        "title": "Realme X",
+        "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+        "category": "smartphones",
+        "price": 299.99,
+        "discountPercentage": 2.39,
+        "rating": 4.42,
+        "stock": 87,
+        "tags": [
+          "smartphones",
+          "realme"
+        ],
+        "brand": "Realme",
+        "sku": "5E11C5C4",
+        "weight": 1,
+        "dimensions": {
+          "width": 29.32,
+          "height": 16.3,
+          "depth": 24.12
+        },
+        "warrantyInformation": "1 month warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Highly recommended!",
+            "date": "2024-05-23T08:56:21.625Z",
+            "reviewerName": "Benjamin Foster",
+            "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Very satisfied!",
+            "date": "2024-05-23T08:56:21.625Z",
+            "reviewerName": "Madison Collins",
+            "reviewerEmail": "madison.collins@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Fast shipping!",
+            "date": "2024-05-23T08:56:21.625Z",
+            "reviewerName": "Emily Johnson",
+            "reviewerEmail": "emily.johnson@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "7 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.625Z",
+          "updatedAt": "2024-05-23T08:56:21.625Z",
+          "barcode": "0139612574728",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/1.png",
+          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/2.png",
+          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
+      },
+      "quantity": 1,
+      "id": "rd0NesK"
+    },
+    {
+      "userId": "edfe",
+      "product": {
+        "id": 174,
+        "title": "Prada Women Bag",
+        "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+        "category": "womens-bags",
+        "price": 599.99,
+        "discountPercentage": 18.3,
+        "rating": 3.52,
+        "stock": 43,
+        "tags": [
+          "fashion accessories",
+          "designer bags"
+        ],
+        "brand": "Prada",
+        "sku": "WXX4YTJM",
+        "weight": 4,
+        "dimensions": {
+          "width": 23.45,
+          "height": 16.1,
+          "depth": 5.78
+        },
+        "warrantyInformation": "1 week warranty",
+        "shippingInformation": "Ships overnight",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Excellent quality!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Samantha Howard",
+            "reviewerEmail": "samantha.howard@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Would buy again!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Henry Hill",
+            "reviewerEmail": "henry.hill@x.dummyjson.com"
+          },
+          {
+            "rating": 3,
+            "comment": "Not worth the price!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Lucas Ramirez",
+            "reviewerEmail": "lucas.ramirez@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "7 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.627Z",
+          "updatedAt": "2024-05-23T08:56:21.627Z",
+          "barcode": "4590351278063",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/1.png",
+          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/2.png",
+          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png"
+      },
+      "quantity": 1,
+      "id": "W6ymVKZ"
     }
   ],
   "wishlist": [
@@ -14162,135 +13581,6 @@
       }
     },
     {
-      "id": "1ba7",
-      "userId": "4885",
-      "product": {
-        "id": 12,
-        "title": "Annibale Colombo Sofa",
-        "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
-        "category": "furniture",
-        "price": 2499.99,
-        "discountPercentage": 18.54,
-        "rating": 3.08,
-        "stock": 16,
-        "tags": [
-          "furniture",
-          "sofas"
-        ],
-        "brand": "Annibale Colombo",
-        "sku": "LUU95CQP",
-        "weight": 3,
-        "dimensions": {
-          "width": 20.97,
-          "height": 19.11,
-          "depth": 25.81
-        },
-        "warrantyInformation": "1 month warranty",
-        "shippingInformation": "Ships overnight",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Tyler Davis",
-            "reviewerEmail": "tyler.davis@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Hannah Robinson",
-            "reviewerEmail": "hannah.robinson@x.dummyjson.com"
-          },
-          {
-            "rating": 3,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Madison Collins",
-            "reviewerEmail": "madison.collins@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.620Z",
-          "updatedAt": "2024-05-23T08:56:21.620Z",
-          "barcode": "0426785817074",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
-          "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
-      }
-    },
-    {
-      "id": "0ec3",
-      "userId": "779d",
-      "product": {
-        "id": "47",
-        "title": "Table Lamp",
-        "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
-        "category": "home-decoration",
-        "price": 49.99,
-        "discountPercentage": 0.59,
-        "rating": 4.56,
-        "stock": 84,
-        "tags": [
-          "home decor",
-          "lighting"
-        ],
-        "sku": "0K9UDIUB",
-        "weight": 2,
-        "dimensions": {
-          "width": 29.6,
-          "height": 19.68,
-          "depth": 10.12
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 3,
-            "comment": "Not worth the price!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Mateo Nguyen",
-            "reviewerEmail": "mateo.nguyen@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "James Garcia",
-            "reviewerEmail": "james.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.621Z",
-            "reviewerName": "Henry Turner",
-            "reviewerEmail": "henry.turner@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 10,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.621Z",
-          "updatedAt": "2024-05-23T08:56:21.621Z",
-          "barcode": "7764806947768",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
-      }
-    },
-    {
       "id": "54ba",
       "userId": "0bc3",
       "product": {
@@ -14483,6 +13773,71 @@
         ],
         "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
       }
+    },
+    {
+      "userId": "edfe",
+      "product": {
+        "id": "182",
+        "title": "Green Crystal Earring",
+        "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+        "category": "womens-jewellery",
+        "price": 29.99,
+        "discountPercentage": 2.58,
+        "rating": 2.94,
+        "stock": 1,
+        "tags": [
+          "fashion accessories",
+          "earrings"
+        ],
+        "sku": "O7LSKAP2",
+        "weight": 10,
+        "dimensions": {
+          "width": 19.73,
+          "height": 14.54,
+          "depth": 15.92
+        },
+        "warrantyInformation": "3 year warranty",
+        "shippingInformation": "Ships in 1 month",
+        "availabilityStatus": "Low Stock",
+        "reviews": [
+          {
+            "rating": 3,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "James Garcia",
+            "reviewerEmail": "james.garcia@x.dummyjson.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Grayson Coleman",
+            "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+          },
+          {
+            "rating": 2,
+            "comment": "Waste of money!",
+            "date": "2024-05-23T08:56:21.627Z",
+            "reviewerName": "Nolan Bryant",
+            "reviewerEmail": "nolan.bryant@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 17,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.627Z",
+          "updatedAt": "2024-05-23T08:56:21.627Z",
+          "barcode": "1370841315431",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/1.png",
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/2.png",
+          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
+      },
+      "id": "uJluMya"
     }
   ],
   "coupons": [
@@ -14515,6 +13870,411 @@
       "minPurchaseAmount": 2000,
       "validFrom": "2024-06-01T00:00:00Z",
       "validTo": "2024-12-31T23:59:59Z"
+    }
+  ],
+  "recently-viewed": [
+    {
+      "page": {
+        "id": "28",
+        "title": "Ice Cream",
+        "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+        "category": "groceries",
+        "price": 5.49,
+        "discountPercentage": 7.58,
+        "rating": 3.77,
+        "stock": 76,
+        "tags": [
+          "desserts"
+        ],
+        "sku": "VEZMU1EQ",
+        "weight": 5,
+        "dimensions": {
+          "width": 17.66,
+          "height": 24.49,
+          "depth": 25.98
+        },
+        "warrantyInformation": "2 year warranty",
+        "shippingInformation": "Ships in 2 weeks",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Great product!",
+            "date": "2024-05-23T08:56:21.620Z",
+            "reviewerName": "Elena Baker",
+            "reviewerEmail": "elena.baker@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Highly impressed!",
+            "date": "2024-05-23T08:56:21.620Z",
+            "reviewerName": "Madeline Simpson",
+            "reviewerEmail": "madeline.simpson@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Very happy with my purchase!",
+            "date": "2024-05-23T08:56:21.620Z",
+            "reviewerName": "Caleb Nelson",
+            "reviewerEmail": "caleb.nelson@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 19,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.620Z",
+          "updatedAt": "2024-05-23T08:56:21.620Z",
+          "barcode": "9603960319256",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png",
+          "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png",
+          "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png",
+          "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T17:59:40.919Z",
+      "updatedAt": "2024-09-09T17:59:40.919Z",
+      "id": 1
+    },
+    {
+      "page": {
+        "id": "66",
+        "title": "Microwave Oven",
+        "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+        "category": "kitchen-accessories",
+        "price": 89.99,
+        "discountPercentage": 18.73,
+        "rating": 2.71,
+        "stock": 27,
+        "tags": [
+          "kitchen appliances",
+          "microwaves"
+        ],
+        "sku": "7CERPRRE",
+        "weight": 8,
+        "dimensions": {
+          "width": 9.61,
+          "height": 25.64,
+          "depth": 12.31
+        },
+        "warrantyInformation": "6 months warranty",
+        "shippingInformation": "Ships in 1 month",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Would buy again!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Ava Harrison",
+            "reviewerEmail": "ava.harrison@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Highly impressed!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Liam Gonzalez",
+            "reviewerEmail": "liam.gonzalez@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Awesome product!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Avery Carter",
+            "reviewerEmail": "avery.carter@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "90 days return policy",
+        "minimumOrderQuantity": 8,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.622Z",
+          "updatedAt": "2024-05-23T08:56:21.622Z",
+          "barcode": "4567190151518",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/1.png",
+          "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/2.png",
+          "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/3.png",
+          "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/4.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T18:00:25.169Z",
+      "updatedAt": "2024-09-09T18:00:25.169Z",
+      "id": 2
+    },
+    {
+      "page": {
+        "id": "81",
+        "title": "Lenovo Yoga 920",
+        "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+        "category": "laptops",
+        "price": 1099.99,
+        "discountPercentage": 7.77,
+        "rating": 2.98,
+        "stock": 71,
+        "tags": [
+          "laptops"
+        ],
+        "brand": "Lenovo",
+        "sku": "MST9WZQY",
+        "weight": 7,
+        "dimensions": {
+          "width": 11.02,
+          "height": 14.45,
+          "depth": 24.09
+        },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 1 week",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very happy with my purchase!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Paisley Bell",
+            "reviewerEmail": "paisley.bell@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Very pleased!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Lincoln Kelly",
+            "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Great product!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Luna Russell",
+            "reviewerEmail": "luna.russell@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.623Z",
+          "updatedAt": "2024-05-23T08:56:21.623Z",
+          "barcode": "9590995785298",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/2.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T18:00:36.967Z",
+      "updatedAt": "2024-09-09T18:00:36.967Z",
+      "id": 3
+    },
+    {
+      "page": {
+        "id": "82",
+        "title": "New DELL XPS 13 9300 Laptop",
+        "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+        "category": "laptops",
+        "price": 1499.99,
+        "discountPercentage": 11.7,
+        "rating": 2.98,
+        "stock": 18,
+        "tags": [
+          "laptops"
+        ],
+        "brand": "Dell",
+        "sku": "XBJJ446X",
+        "weight": 10,
+        "dimensions": {
+          "width": 12.09,
+          "height": 6.43,
+          "depth": 15.69
+        },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships overnight",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 3,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Julian Newton",
+            "reviewerEmail": "julian.newton@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Very pleased!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Grace Perry",
+            "reviewerEmail": "grace.perry@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Great product!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Daniel Taylor",
+            "reviewerEmail": "daniel.taylor@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "7 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.623Z",
+          "updatedAt": "2024-05-23T08:56:21.623Z",
+          "barcode": "0358629687929",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/1.png",
+          "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/2.png",
+          "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T18:00:41.929Z",
+      "updatedAt": "2024-09-09T18:00:41.929Z",
+      "id": 4
+    },
+    {
+      "page": {
+        "id": "79",
+        "title": "Asus Zenbook Pro Dual Screen Laptop",
+        "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+        "category": "laptops",
+        "price": 1799.99,
+        "discountPercentage": 9.21,
+        "rating": 3.14,
+        "stock": 38,
+        "tags": [
+          "laptops"
+        ],
+        "brand": "Asus",
+        "sku": "4A9KFMBG",
+        "weight": 8,
+        "dimensions": {
+          "width": 19.67,
+          "height": 11.05,
+          "depth": 14.32
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Very satisfied!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Jack Ward",
+            "reviewerEmail": "jack.ward@x.dummyjson.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Very disappointed!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Ava Harris",
+            "reviewerEmail": "ava.harris@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Great value for money!",
+            "date": "2024-05-23T08:56:21.622Z",
+            "reviewerName": "Brayden Fleming",
+            "reviewerEmail": "brayden.fleming@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.622Z",
+          "updatedAt": "2024-05-23T08:56:21.622Z",
+          "barcode": "2899455033799",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/2.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T18:00:46.629Z",
+      "updatedAt": "2024-09-09T18:00:46.629Z",
+      "id": 5
+    },
+    {
+      "page": {
+        "id": "81",
+        "title": "Lenovo Yoga 920",
+        "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+        "category": "laptops",
+        "price": 1099.99,
+        "discountPercentage": 7.77,
+        "rating": 2.98,
+        "stock": 71,
+        "tags": [
+          "laptops"
+        ],
+        "brand": "Lenovo",
+        "sku": "MST9WZQY",
+        "weight": 7,
+        "dimensions": {
+          "width": 11.02,
+          "height": 14.45,
+          "depth": 24.09
+        },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 1 week",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very happy with my purchase!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Paisley Bell",
+            "reviewerEmail": "paisley.bell@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Very pleased!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Lincoln Kelly",
+            "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Great product!",
+            "date": "2024-05-23T08:56:21.623Z",
+            "reviewerName": "Luna Russell",
+            "reviewerEmail": "luna.russell@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.623Z",
+          "updatedAt": "2024-05-23T08:56:21.623Z",
+          "barcode": "9590995785298",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/2.png",
+          "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-09T18:09:10.443Z",
+      "updatedAt": "2024-09-09T18:09:10.443Z",
+      "id": 6
     }
   ],
   "orders": [
@@ -17091,350 +16851,589 @@
       "status": "pending"
     }
   ],
-    "categories":[
-      {
-        "id": 1,
-        "title": "Beauty & Personal Care",
-        "slug": "beauty-personal-care",
-        "images": [
-          {
-            "src": "/images/beauty_1.jpg",
-            "title": "Luxury Beauty Products",
-            "prompt": "A collection of high-end beauty products including serums, creams, and makeup, arranged on an elegant vanity with a focus on sophistication."
-          },
-          {
-            "src": "/images/beauty_2.jpg",
-            "title": "Daily Skincare",
-            "prompt": "An assortment of daily skincare products such as cleansers, toners, and moisturizers, displayed in a modern setting that highlights their essential role."
-          },
-          {
-            "src": "/images/beauty_3.jpg",
-            "title": "Makeup Essentials",
-            "prompt": "A variety of makeup products including foundations, lipsticks, and eyeshadows, arranged in a stylish display that emphasizes their versatility and appeal."
-          },
-          {
-            "src": "/images/beauty_4.jpg",
-            "title": "Hair Care",
-            "prompt": "Various hair care products including shampoos, conditioners, and styling tools, showcased in a clean and organized manner."
+  "categories": [
+    {
+      "id": 1,
+      "title": "Beauty & Personal Care",
+      "slug": "beauty-personal-care",
+      "images": [
+        {
+          "src": "/images/beauty_1.jpg",
+          "title": "Luxury Beauty Products",
+          "prompt": "A collection of high-end beauty products including serums, creams, and makeup, arranged on an elegant vanity with a focus on sophistication."
+        },
+        {
+          "src": "/images/beauty_2.jpg",
+          "title": "Daily Skincare",
+          "prompt": "An assortment of daily skincare products such as cleansers, toners, and moisturizers, displayed in a modern setting that highlights their essential role."
+        },
+        {
+          "src": "/images/beauty_3.jpg",
+          "title": "Makeup Essentials",
+          "prompt": "A variety of makeup products including foundations, lipsticks, and eyeshadows, arranged in a stylish display that emphasizes their versatility and appeal."
+        },
+        {
+          "src": "/images/beauty_4.jpg",
+          "title": "Hair Care",
+          "prompt": "Various hair care products including shampoos, conditioners, and styling tools, showcased in a clean and organized manner."
+        }
+      ],
+      "count": 180,
+      "subCategories": [
+        {
+          "id": 1.1,
+          "title": "Skincare",
+          "slug": "skincare",
+          "count": 40,
+          "src": "/images/beauty/skincare.jpg",
+          "prompt": "An assortment of skincare products including cleansers, toners, and moisturizers, displayed in a modern and elegant setup."
+        },
+        {
+          "id": 1.2,
+          "title": "Makeup",
+          "slug": "makeup",
+          "count": 40,
+          "src": "/images/beauty/makeup.jpg",
+          "prompt": "A variety of makeup products such as foundations, lipsticks, and eyeshadows, arranged in a chic display."
+        },
+        {
+          "id": 1.3,
+          "title": "Hair Care",
+          "slug": "hair-care",
+          "count": 30,
+          "src": "/images/beauty/hair-care.jpg",
+          "prompt": "Different hair care products including shampoos and conditioners, displayed neatly to highlight their features."
+        },
+        {
+          "id": 1.4,
+          "title": "Fragrances",
+          "slug": "fragrances",
+          "count": 30,
+          "src": "/images/beauty/fragrances.jpg",
+          "prompt": "An assortment of luxury and daily use fragrances, arranged attractively to showcase their appeal."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fashion & Accessories",
+      "slug": "fashion-accessories",
+      "images": [
+        {
+          "src": "/images/fashion_1.jpg",
+          "title": "Men's Clothing",
+          "prompt": "A selection of men's shirts, shoes, and watches, displayed to highlight their style and quality in a modern setting."
+        },
+        {
+          "src": "/images/fashion_2.jpg",
+          "title": "Women's Clothing",
+          "prompt": "Various women's dresses, bags, shoes, and jewelry, arranged to showcase their fashion and elegance."
+        },
+        {
+          "src": "/images/fashion_3.jpg",
+          "title": "Sunglasses & Accessories",
+          "prompt": "A range of stylish sunglasses and other fashion accessories, displayed to emphasize their appeal and design."
+        },
+        {
+          "src": "/images/fashion_4.jpg",
+          "title": "Sports Accessories",
+          "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style."
+        }
+      ],
+      "count": 160,
+      "subCategories": [
+        {
+          "id": 2.1,
+          "title": "Men's Shirts",
+          "slug": "mens-shirts",
+          "count": 30,
+          "src": "/images/fashion/mens-shirts.jpg",
+          "prompt": "A variety of men's shirts including casual and formal styles, arranged to showcase their fashion and quality.",
+          "attributes": {
+            "sizes": [
+              "S",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ],
+            "colors": [
+              "Blue",
+              "White",
+              "Black",
+              "Gray"
+            ]
           }
-        ],
-        "count": 180,
-        "subCategories": [
-          {
-            "id": 1,
-            "title": "Skincare",
-            "slug": "skincare",
-            "count": 40,
-            "src": "/images/beauty/skincare.jpg",
-            "prompt": "An assortment of skincare products including cleansers, toners, and moisturizers, displayed in a modern and elegant setup."
-          },
-          {
-            "id": 2,
-            "title": "Makeup",
-            "slug": "makeup",
-            "count": 40,
-            "src": "/images/beauty/makeup.jpg",
-            "prompt": "A variety of makeup products such as foundations, lipsticks, and eyeshadows, arranged in a chic display."
-          },
-          {
-            "id": 3,
-            "title": "Hair Care",
-            "slug": "hair-care",
-            "count": 30,
-            "src": "/images/beauty/hair-care.jpg",
-            "prompt": "Different hair care products including shampoos and conditioners, displayed neatly to highlight their features."
-          },
-          {
-            "id": 4,
-            "title": "Fragrances",
-            "slug": "fragrances",
-            "count": 30,
-            "src": "/images/beauty/fragrances.jpg",
-            "prompt": "An assortment of luxury and daily use fragrances, arranged attractively to showcase their appeal."
+        },
+        {
+          "id": 2.2,
+          "title": "Men's Shoes",
+          "slug": "mens-shoes",
+          "count": 30,
+          "src": "/images/fashion/mens-shoes.jpg",
+          "prompt": "Different styles of men's shoes including formal and casual options, displayed to highlight their design.",
+          "attributes": {
+            "sizes": [
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11"
+            ],
+            "colors": [
+              "Brown",
+              "Black",
+              "White",
+              "Gray"
+            ]
           }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Fashion & Accessories",
-        "slug": "fashion-accessories",
-        "images": [
-          {
-            "src": "/images/fashion_1.jpg",
-            "title": "Men's Clothing",
-            "prompt": "A selection of men's shirts, shoes, and watches, displayed to highlight their style and quality in a modern setting."
-          },
-          {
-            "src": "/images/fashion_2.jpg",
-            "title": "Women's Clothing",
-            "prompt": "Various women's dresses, bags, shoes, and jewelry, arranged to showcase their fashion and elegance."
-          },
-          {
-            "src": "/images/fashion_3.jpg",
-            "title": "Sunglasses & Accessories",
-            "prompt": "A range of stylish sunglasses and other fashion accessories, displayed to emphasize their appeal and design."
-          },
-          {
-            "src": "/images/fashion_4.jpg",
-            "title": "Sports Accessories",
-            "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style."
+        },
+        {
+          "id": 2.3,
+          "title": "Men's Watches",
+          "slug": "mens-watches",
+          "count": 20,
+          "src": "/images/fashion/mens-watches.jpg",
+          "prompt": "Various men's watches with elegant designs and advanced features, arranged attractively.",
+          "attributes": {
+            "types": [
+              "Analog",
+              "Digital",
+              "Smartwatch"
+            ],
+            "features": [
+              "Water Resistant",
+              "GPS",
+              "Heart Rate Monitor"
+            ]
           }
-        ],
-        "count": 160,
-        "subCategories": [
-          {
-            "id": 1,
-            "title": "Men's Shirts",
-            "slug": "mens-shirts",
-            "count": 30,
-            "src": "/images/fashion/mens-shirts.jpg",
-            "prompt": "A variety of men's shirts including casual and formal styles, arranged to showcase their fashion and quality."
-          },
-          {
-            "id": 2,
-            "title": "Men's Shoes",
-            "slug": "mens-shoes",
-            "count": 30,
-            "src": "/images/fashion/mens-shoes.jpg",
-            "prompt": "Different styles of men's shoes including formal and casual options, displayed to highlight their design."
-          },
-          {
-            "id": 3,
-            "title": "Men's Watches",
-            "slug": "mens-watches",
-            "count": 20,
-            "src": "/images/fashion/mens-watches.jpg",
-            "prompt": "Various men's watches with elegant designs and advanced features, arranged attractively."
-          },
-          {
-            "id": 4,
-            "title": "Women's Bags",
-            "slug": "womens-bags",
-            "count": 25,
-            "src": "/images/fashion/womens-bags.jpg",
-            "prompt": "Stylish women's bags including handbags and totes, displayed to emphasize their fashion appeal."
-          },
-          {
-            "id": 5,
-            "title": "Women's Dresses",
-            "slug": "womens-dresses",
-            "count": 25,
-            "src": "/images/fashion/womens-dresses.jpg",
-            "prompt": "Elegant women's dresses for various occasions, arranged to showcase their style and beauty."
-          },
-          {
-            "id": 6,
-            "title": "Women's Shoes",
-            "slug": "womens-shoes",
-            "count": 20,
-            "src": "/images/fashion/womens-shoes.jpg",
-            "prompt": "Different styles of women's shoes including heels and flats, displayed to highlight their design."
-          },
-          {
-            "id": 7,
-            "title": "Women's Jewelry",
-            "slug": "womens-jewelry",
-            "count": 20,
-            "src": "/images/fashion/womens-jewelry.jpg",
-            "prompt": "A collection of women's jewelry including necklaces, earrings, and bracelets, arranged to showcase their elegance."
-          },
-          {
-            "id": 8,
-            "title": "Sunglasses",
-            "slug": "sunglasses",
-            "count": 15,
-            "src": "/images/fashion/sunglasses.jpg",
-            "prompt": "Stylish sunglasses with various designs, displayed to emphasize their fashion and protection features."
-          },
-          {
-            "id": 9,
-            "title": "Sports Accessories",
-            "slug": "sports-accessories",
-            "count": 20, 
-            "src": "/images/fashion/sports-accessories.jpg",
-            "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style."
+        },
+        {
+          "id": 2.4,
+          "title": "Women's Bags",
+          "slug": "womens-bags",
+          "count": 25,
+          "src": "/images/fashion/womens-bags.jpg",
+          "prompt": "Stylish women's bags including handbags and totes, displayed to emphasize their fashion appeal.",
+          "attributes": {
+            "types": [
+              "Handbag",
+              "Tote",
+              "Clutch"
+            ],
+            "materials": [
+              "Leather",
+              "Canvas",
+              "Synthetic"
+            ]
           }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Electronics Items",
-        "slug": "electronics",
-        "images": [
-          {
-            "src": "/images/electronics_1.jpg",
-            "title": "Smartphones & Tablets",
-            "prompt": "A range of smartphones and tablets featuring modern technology and sleek designs, arranged to highlight their advanced features."
-          },
-          {
-            "src": "/images/electronics_2.jpg",
-            "title": "Laptops & Accessories",
-            "prompt": "Various laptops and their accessories including cases and docking stations, showcased to emphasize their performance and functionality."
-          },
-          {
-            "src": "/images/electronics_3.jpg",
-            "title": "Mobile Accessories",
-            "prompt": "A variety of mobile accessories including chargers, cases, and headphones, displayed to highlight their practicality."
-          },
-          {
-            "src": "/images/electronics_4.jpg",
-            "title": "Wearable Tech",
-            "prompt": "Different wearable tech products such as smartwatches and fitness trackers, displayed to showcase their modern features and sleek designs."
+        },
+        {
+          "id": 2.5,
+          "title": "Women's Dresses",
+          "slug": "womens-dresses",
+          "count": 25,
+          "src": "/images/fashion/womens-dresses.jpg",
+          "prompt": "Elegant women's dresses for various occasions, arranged to showcase their style and beauty.",
+          "attributes": {
+            "sizes": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            "styles": [
+              "Casual",
+              "Formal",
+              "Cocktail"
+            ]
           }
-        ],
-        "count": 140,
-        "subCategories": [
-          {
-            "id": 1,
-            "title": "Smartphones",
-            "slug": "smartphones",
-            "count": 30,
-            "src": "/images/electronics/smartphones.jpg",
-            "prompt": "Latest smartphone models featuring sleek designs and advanced technology."
-          },
-          {
-            "id": 2,
-            "title": "Tablets",
-            "slug": "tablets",
-            "count": 20,
-            "src": "/images/electronics/tablets.jpg",
-            "prompt": "Various tablets with modern features and stylish designs, perfect for personal and professional use."
-          },
-          {
-            "id": 3,
-            "title": "Laptops",
-            "slug": "laptops",
-            "count": 30,
-            "src": "/images/electronics/laptops.jpg",
-            "prompt": "Various laptops with advanced features and stylish designs, perfect for work and leisure."
-          },
-          {
-            "id": 4,
-            "title": "Mobile Accessories",
-            "slug": "mobile-accessories",
-            "count": 30,
-            "src": "/images/electronics/mobile-accessories.jpg",
-            "prompt": "An assortment of mobile accessories including chargers and cases, displayed in an organized manner."
-          },
-          {
-            "id": 5,
-            "title": "Wearable Tech",
-            "slug": "wearable-tech",
-            "count": 30,
-            "src": "/images/electronics/wearable-tech.jpg",
-            "prompt": "Wearable tech products like smartwatches and fitness trackers, showcasing their modern features."
+        },
+        {
+          "id": 2.6,
+          "title": "Women's Shoes",
+          "slug": "womens-shoes",
+          "count": 20,
+          "src": "/images/fashion/womens-shoes.jpg",
+          "prompt": "Different styles of women's shoes including heels and flats, displayed to highlight their design.",
+          "attributes": {
+            "sizes": [
+              "5",
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "styles": [
+              "Heels",
+              "Flats",
+              "Boots"
+            ]
           }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Home & Kitchen",
-        "slug": "home-kitchen",
-        "images": [
-          {
-            "src": "/images/home-kitchen_1.jpg",
-            "title": "Furniture",
-            "prompt": "A modern living room setup with sleek furniture, including a stylish sofa, coffee table, and decor items, creating a sophisticated and inviting space."
-          },
-          {
-            "src": "/images/home-kitchen_2.jpg",
-            "title": "Kitchen Accessories",
-            "prompt": "Practical and stylish kitchen accessories including utensils, pots, and gadgets, arranged to highlight their functionality and design."
-          },
-          {
-            "src": "/images/home-kitchen_3.jpg",
-            "title": "Home Decor",
-            "prompt": "Elegant home decor items such as vases, lamps, and picture frames, arranged to enhance a modern living space."
-          },
-          {
-            "src": "/images/home-kitchen_4.jpg",
-            "title": "Outdoor Furniture",
-            "prompt": "Stylish outdoor furniture pieces including chairs and tables, arranged on a patio to emphasize comfort and style in an outdoor setting."
+        },
+        {
+          "id": 2.7,
+          "title": "Women's Jewelry",
+          "slug": "womens-jewelry",
+          "count": 20,
+          "src": "/images/fashion/womens-jewelry.jpg",
+          "prompt": "A collection of women's jewelry including necklaces, earrings, and bracelets, arranged to showcase their elegance.",
+          "attributes": {
+            "types": [
+              "Necklaces",
+              "Earrings",
+              "Bracelets"
+            ],
+            "materials": [
+              "Gold",
+              "Silver",
+              "Platinum"
+            ]
           }
-        ],
-        "count": 160,
-        "subCategories": [
-          {
-            "id": 1,
-            "title": "Furniture",
-            "slug": "furniture",
-            "count": 40,
-            "src": "/images/home-kitchen/furniture.jpg",
-            "prompt": "Modern furniture pieces arranged in a sophisticated living room setup."
-          },
-          {
-            "id": 2,
-            "title": "Kitchen Accessories",
-            "slug": "kitchen-accessories",
-            "count": 40,
-            "src": "/images/home-kitchen/kitchen-accessories.jpg",
-            "prompt": "Practical kitchen accessories including utensils and gadgets, displayed in a clean and organized manner."
-          },
-          {
-            "id": 3,
-            "title": "Home Decor",
-            "slug": "home-decor",
-            "count": 40,
-            "src": "/images/home-kitchen/home-decor.jpg",
-            "prompt": "Elegant home decor items such as vases and picture frames, arranged to enhance a modern living space."
-          },
-          {
-            "id": 4,
-            "title": "Outdoor Furniture",
-            "slug": "outdoor-furniture",
-            "count": 40,
-            "src": "/images/home-kitchen/outdoor-furniture.jpg",
-            "prompt": "Stylish outdoor furniture pieces arranged on a patio, emphasizing comfort and design."
+        },
+        {
+          "id": 2.8,
+          "title": "Sunglasses",
+          "slug": "sunglasses",
+          "count": 15,
+          "src": "/images/fashion/sunglasses.jpg",
+          "prompt": "Stylish sunglasses with various designs, displayed to emphasize their fashion and protection features.",
+          "attributes": {
+            "types": [
+              "Polarized",
+              "Non-Polarized"
+            ],
+            "colors": [
+              "Black",
+              "Brown",
+              "Gray"
+            ]
           }
-        ]
-      },
-      {
-        "id": 5,
-        "title": "Automotive",
-        "slug": "automotive",
-        "images": [
-          {
-            "src": "/images/automotive_1.jpg",
-            "title": "Motorcycles",
-            "prompt": "A variety of motorcycles with modern designs and features, displayed to highlight their performance and style."
-          },
-          {
-            "src": "/images/automotive_2.jpg",
-            "title": "Vehicle Accessories",
-            "prompt": "Different vehicle accessories including car parts and gadgets, arranged to emphasize their functionality and utility."
-          },
-          {
-            "src": "/images/automotive_3.jpg",
-            "title": "Cars",
-            "prompt": "A selection of modern cars showcasing various models and designs, highlighted to emphasize their advanced technology and style."
-          },
-          {
-            "src": "/images/automotive_4.jpg",
-            "title": "Car Maintenance Tools",
-            "prompt": "Essential car maintenance tools including wrenches, screwdrivers, and diagnostic equipment, displayed to emphasize their utility and importance for vehicle care."
+        },
+        {
+          "id": 2.9,
+          "title": "Sports Accessories",
+          "slug": "sports-accessories",
+          "count": 20,
+          "src": "/images/fashion/sports-accessories.jpg",
+          "prompt": "Different sports accessories including gear and equipment, arranged to highlight their functionality and style.",
+          "attributes": {
+            "types": [
+              "Bags",
+              "Wristbands",
+              "Hats"
+            ],
+            "sports": [
+              "Running",
+              "Cycling",
+              "Gym"
+            ]
           }
-        ],
-        "count": 100,
-        "subCategories": [
-          {
-            "id": 1,
-            "title": "Motorcycles",
-            "slug": "motorcycle",
-            "count": 50,
-            "src": "/images/automotive/motorcycles.jpg",
-            "prompt": "Modern motorcycles with sleek designs and advanced features."
-          },
-          {
-            "id": 2,
-            "title": "Vehicle Accessories",
-            "slug": "vehicle",
-            "count": 50,
-            "src": "/images/automotive/vehicle-accessories.jpg",
-            "prompt": "Various vehicle accessories including car parts and gadgets, displayed to highlight their utility."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Electronics Items",
+      "slug": "electronics",
+      "images": [
+        {
+          "src": "/images/electronics_1.jpg",
+          "title": "Smartphones & Tablets",
+          "prompt": "A range of smartphones and tablets featuring modern technology and sleek designs, arranged to highlight their advanced features."
+        },
+        {
+          "src": "/images/electronics_2.jpg",
+          "title": "Laptops & Accessories",
+          "prompt": "Various laptops and their accessories including cases and docking stations, showcased to emphasize their performance and functionality."
+        },
+        {
+          "src": "/images/electronics_3.jpg",
+          "title": "Mobile Accessories",
+          "prompt": "A variety of mobile accessories including chargers, cases, and headphones, displayed to highlight their practicality."
+        },
+        {
+          "src": "/images/electronics_4.jpg",
+          "title": "Home Appliances",
+          "prompt": "Different home appliances such as smart speakers and kitchen gadgets, arranged to showcase their utility and modern design."
+        }
+      ],
+      "count": 220,
+      "subCategories": [
+        {
+          "id": 3.1,
+          "title": "Smartphones",
+          "slug": "smartphones",
+          "count": 50,
+          "src": "/images/electronics/smartphones.jpg",
+          "prompt": "A range of smartphones from various brands, showcasing their features and designs.",
+          "attributes": {
+            "brands": [
+              "Apple",
+              "Samsung",
+              "Google",
+              "OnePlus"
+            ],
+            "storage": [
+              "64GB",
+              "128GB",
+              "256GB",
+              "512GB"
+            ],
+            "colors": [
+              "Black",
+              "White",
+              "Blue",
+              "Red"
+            ]
           }
-        ]
-      }
-    ]
-
-
+        },
+        {
+          "id": 3.2,
+          "title": "Tablets",
+          "slug": "tablets",
+          "count": 30,
+          "src": "/images/electronics/tablets.jpg",
+          "prompt": "Different tablets with various specifications and designs, displayed to highlight their features.",
+          "attributes": {
+            "brands": [
+              "Apple",
+              "Samsung",
+              "Microsoft"
+            ],
+            "storage": [
+              "32GB",
+              "64GB",
+              "128GB"
+            ],
+            "colors": [
+              "Black",
+              "Silver",
+              "Gold"
+            ]
+          }
+        },
+        {
+          "id": 3.3,
+          "title": "Laptops",
+          "slug": "laptops",
+          "count": 40,
+          "src": "/images/electronics/laptops.jpg",
+          "prompt": "Various laptops including gaming and ultrabook models, arranged to showcase their performance and design.",
+          "attributes": {
+            "brands": [
+              "Dell",
+              "HP",
+              "Lenovo",
+              "Apple"
+            ],
+            "sizes": [
+              "13.3\"",
+              "15.6\"",
+              "17.3\""
+            ],
+            "colors": [
+              "Black",
+              "Silver",
+              "Gray"
+            ]
+          }
+        },
+        {
+          "id": 3.4,
+          "title": "Laptop Accessories",
+          "slug": "laptop-accessories",
+          "count": 20,
+          "src": "/images/electronics/laptop-accessories.jpg",
+          "prompt": "Different laptop accessories including cases, docking stations, and keyboards, displayed to highlight their utility.",
+          "attributes": {
+            "types": [
+              "Cases",
+              "Docking Stations",
+              "Keyboards"
+            ],
+            "brands": [
+              "Logitech",
+              "Kensington",
+              "Belkin"
+            ]
+          }
+        },
+        {
+          "id": 3.5,
+          "title": "Mobile Accessories",
+          "slug": "mobile-accessories",
+          "count": 30,
+          "src": "/images/electronics/mobile-accessories.jpg",
+          "prompt": "A variety of mobile accessories including chargers, cases, and headphones, displayed to emphasize their practicality.",
+          "attributes": {
+            "types": [
+              "Chargers",
+              "Cases",
+              "Headphones"
+            ],
+            "brands": [
+              "Anker",
+              "Belkin",
+              "JBL"
+            ]
+          }
+        },
+        {
+          "id": 3.6,
+          "title": "Smart Home Appliances",
+          "slug": "smart-home-appliances",
+          "count": 20,
+          "src": "/images/electronics/smart-home-appliances.jpg",
+          "prompt": "Different smart home appliances such as speakers and kitchen gadgets, arranged to showcase their modern features.",
+          "attributes": {
+            "types": [
+              "Speakers",
+              "Kitchen Gadgets",
+              "Smart Plugs"
+            ],
+            "brands": [
+              "Amazon",
+              "Google",
+              "Philips"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Home & Furniture",
+      "slug": "home-furniture",
+      "images": [
+        {
+          "src": "/images/home-kitchen_1.jpg",
+          "title": "Living Room Furniture",
+          "prompt": "A selection of elegant living room furniture including sofas, coffee tables, and rugs, arranged to highlight their design and comfort."
+        },
+        {
+          "src": "/images/home-kitchen_2.jpg",
+          "title": "Bedroom Essentials",
+          "prompt": "Various bedroom furniture items including beds, nightstands, and dressers, showcased to emphasize their style and functionality."
+        },
+        {
+          "src": "/images/home-kitchen_3.jpg",
+          "title": "Home Décor",
+          "prompt": "A range of home décor items including artwork, vases, and lamps, displayed to highlight their aesthetic appeal."
+        },
+        {
+          "src": "/images/home-kitchen_4.jpg",
+          "title": "Office Furniture",
+          "prompt": "Different office furniture including desks, chairs, and storage solutions, arranged to emphasize their practicality and design."
+        }
+      ],
+      "count": 200,
+      "subCategories": [
+        {
+          "id": 4.1,
+          "title": "Sofas",
+          "slug": "sofas",
+          "count": 40,
+          "src": "/images/home_furniture/sofas.jpg",
+          "prompt": "A variety of sofas including sectionals, loveseats, and recliners, displayed to highlight their comfort and style.",
+          "attributes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "colors": [
+              "Gray",
+              "Beige",
+              "Blue",
+              "Green"
+            ]
+          }
+        },
+        {
+          "id": 4.2,
+          "title": "Beds",
+          "slug": "beds",
+          "count": 35,
+          "src": "/images/home_furniture/beds.jpg",
+          "prompt": "Different types of beds including king, queen, and twin sizes, arranged to showcase their design and comfort.",
+          "attributes": {
+            "sizes": [
+              "Twin",
+              "Full",
+              "Queen",
+              "King"
+            ],
+            "materials": [
+              "Wood",
+              "Metal",
+              "Upholstered"
+            ]
+          }
+        },
+        {
+          "id": 4.3,
+          "title": "Dining Tables",
+          "slug": "dining-tables",
+          "count": 25,
+          "src": "/images/home_furniture/dining-tables.jpg",
+          "prompt": "Various dining tables including round, rectangular, and extendable options, displayed to emphasize their functionality and design.",
+          "attributes": {
+            "sizes": [
+              "4-Seater",
+              "6-Seater",
+              "8-Seater"
+            ],
+            "materials": [
+              "Wood",
+              "Glass",
+              "Metal"
+            ]
+          }
+        },
+        {
+          "id": 4.4,
+          "title": "Office Desks",
+          "slug": "office-desks",
+          "count": 30,
+          "src": "/images/home_furniture/office-desks.jpg",
+          "prompt": "Different office desks including standing desks and writing desks, arranged to showcase their functionality and design.",
+          "attributes": {
+            "sizes": [
+              "Small",
+              "Medium",
+              "Large"
+            ],
+            "types": [
+              "Standing Desk",
+              "Writing Desk",
+              "Corner Desk"
+            ]
+          }
+        },
+        {
+          "id": 4.5,
+          "title": "Home Storage",
+          "slug": "home-storage",
+          "count": 30,
+          "src": "/images/home_furniture/home-storage.jpg",
+          "prompt": "A range of home storage solutions including shelves, cabinets, and organizers, displayed to highlight their practicality.",
+          "attributes": {
+            "types": [
+              "Shelves",
+              "Cabinets",
+              "Baskets"
+            ],
+            "materials": [
+              "Wood",
+              "Metal",
+              "Plastic"
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
