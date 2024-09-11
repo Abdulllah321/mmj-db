@@ -3,7 +3,7 @@ const express = require("express");
 const path = require("path");
 
 const server = express();
-const router = jsonServer.router("db.json");
+const router = jsonServer.router("data.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 5000; // chose port from here like 8080, 3001
 

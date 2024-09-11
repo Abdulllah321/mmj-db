@@ -13055,531 +13055,76 @@
       },
       "quantity": 1,
       "id": "W6ymVKZ"
-    }
-  ],
-  "wishlist": [
-    {
-      "id": "b9fb",
-      "userId": "edfe",
-      "product": {
-        "id": 129,
-        "title": "Realme X",
-        "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
-        "category": "smartphones",
-        "price": 299.99,
-        "discountPercentage": 2.39,
-        "rating": 4.42,
-        "stock": 87,
-        "tags": [
-          "smartphones",
-          "realme"
-        ],
-        "brand": "Realme",
-        "sku": "5E11C5C4",
-        "weight": 1,
-        "dimensions": {
-          "width": 29.32,
-          "height": 16.3,
-          "depth": 24.12
-        },
-        "warrantyInformation": "1 month warranty",
-        "shippingInformation": "Ships in 3-5 business days",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Highly recommended!",
-            "date": "2024-05-23T08:56:21.625Z",
-            "reviewerName": "Benjamin Foster",
-            "reviewerEmail": "benjamin.foster@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.625Z",
-            "reviewerName": "Madison Collins",
-            "reviewerEmail": "madison.collins@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Fast shipping!",
-            "date": "2024-05-23T08:56:21.625Z",
-            "reviewerName": "Emily Johnson",
-            "reviewerEmail": "emily.johnson@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.625Z",
-          "updatedAt": "2024-05-23T08:56:21.625Z",
-          "barcode": "0139612574728",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/1.png",
-          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/2.png",
-          "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
-      }
     },
     {
-      "id": "91dd",
       "userId": "edfe",
       "product": {
-        "id": 174,
-        "title": "Prada Women Bag",
-        "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
-        "category": "womens-bags",
-        "price": 599.99,
-        "discountPercentage": 18.3,
-        "rating": 3.52,
-        "stock": 43,
+        "id": "6",
+        "title": "Calvin Klein CK One",
+        "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+        "category": "fragrances",
+        "price": 49.99,
+        "discountPercentage": 0.32,
+        "rating": 4.85,
+        "stock": 17,
         "tags": [
-          "fashion accessories",
-          "designer bags"
+          "fragrances",
+          "perfumes"
         ],
-        "brand": "Prada",
-        "sku": "WXX4YTJM",
-        "weight": 4,
+        "brand": "Calvin Klein",
+        "sku": "DZM2JQZE",
+        "weight": 5,
         "dimensions": {
-          "width": 23.45,
-          "height": 16.1,
-          "depth": 5.78
+          "width": 11.53,
+          "height": 14.44,
+          "depth": 6.81
         },
-        "warrantyInformation": "1 week warranty",
+        "warrantyInformation": "5 year warranty",
         "shippingInformation": "Ships overnight",
         "availabilityStatus": "In Stock",
         "reviews": [
           {
             "rating": 5,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "Samantha Howard",
-            "reviewerEmail": "samantha.howard@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Would buy again!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "Henry Hill",
-            "reviewerEmail": "henry.hill@x.dummyjson.com"
+            "comment": "Great value for money!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Sophia Brown",
+            "reviewerEmail": "sophia.brown@x.dummyjson.com"
           },
           {
             "rating": 3,
-            "comment": "Not worth the price!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "Lucas Ramirez",
-            "reviewerEmail": "lucas.ramirez@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 1,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.627Z",
-          "updatedAt": "2024-05-23T08:56:21.627Z",
-          "barcode": "4590351278063",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/1.png",
-          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/2.png",
-          "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png"
-      }
-    },
-    {
-      "id": "405d",
-      "userId": "edfe",
-      "product": {
-        "id": "3",
-        "title": "Powder Canister",
-        "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
-        "category": "beauty",
-        "price": 14.99,
-        "discountPercentage": 18.14,
-        "rating": 3.82,
-        "stock": 59,
-        "tags": [
-          "beauty",
-          "face powder"
-        ],
-        "brand": "Velvet Touch",
-        "sku": "9EN8WLT2",
-        "weight": 8,
-        "dimensions": {
-          "width": 24.16,
-          "height": 10.7,
-          "depth": 11.07
-        },
-        "warrantyInformation": "2 year warranty",
-        "shippingInformation": "Ships in 1-2 business days",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Very happy with my purchase!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Ethan Thompson",
-            "reviewerEmail": "ethan.thompson@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Great value for money!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Levi Hicks",
-            "reviewerEmail": "levi.hicks@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Hazel Gardner",
-            "reviewerEmail": "hazel.gardner@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "60 days return policy",
-        "minimumOrderQuantity": 25,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.618Z",
-          "updatedAt": "2024-05-23T08:56:21.618Z",
-          "barcode": "0516267971277",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
-      }
-    },
-    {
-      "id": "ab67",
-      "userId": "edfe",
-      "product": {
-        "id": "4",
-        "title": "Red Lipstick",
-        "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-        "category": "beauty",
-        "price": 12.99,
-        "discountPercentage": 19.03,
-        "rating": 2.51,
-        "stock": 68,
-        "tags": [
-          "beauty",
-          "lipstick"
-        ],
-        "brand": "Chic Cosmetics",
-        "sku": "O5IF1NTA",
-        "weight": 5,
-        "dimensions": {
-          "width": 14.37,
-          "height": 13.94,
-          "depth": 14.6
-        },
-        "warrantyInformation": "Lifetime warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Great product!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Leo Rivera",
-            "reviewerEmail": "leo.rivera@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Oscar Powers",
-            "reviewerEmail": "oscar.powers@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very pleased!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Carter Rivera",
-            "reviewerEmail": "carter.rivera@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "90 days return policy",
-        "minimumOrderQuantity": 6,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "9444582199406",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
-      }
-    },
-    {
-      "id": "4013",
-      "userId": "edfe",
-      "product": {
-        "id": "2",
-        "title": "Eyeshadow Palette with Mirror",
-        "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-        "category": "beauty",
-        "price": 19.99,
-        "discountPercentage": 5.5,
-        "rating": 3.28,
-        "stock": 44,
-        "tags": [
-          "beauty",
-          "eyeshadow"
-        ],
-        "brand": "Glamour Beauty",
-        "sku": "MVCFH27F",
-        "weight": 3,
-        "dimensions": {
-          "width": 12.42,
-          "height": 8.63,
-          "depth": 29.13
-        },
-        "warrantyInformation": "1 year warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Liam Garcia",
-            "reviewerEmail": "liam.garcia@x.dummyjson.com"
-          },
-          {
-            "rating": 1,
             "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Nora Russell",
-            "reviewerEmail": "nora.russell@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Highly impressed!",
-            "date": "2024-05-23T08:56:21.618Z",
-            "reviewerName": "Elena Baker",
-            "reviewerEmail": "elena.baker@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 32,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.618Z",
-          "updatedAt": "2024-05-23T08:56:21.618Z",
-          "barcode": "2817839095220",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
-      }
-    },
-    {
-      "id": "1ece",
-      "userId": "edfe",
-      "product": {
-        "id": "8",
-        "title": "Dior J'adore",
-        "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
-        "category": "fragrances",
-        "price": 89.99,
-        "discountPercentage": 17.44,
-        "rating": 3.31,
-        "stock": 91,
-        "tags": [
-          "fragrances",
-          "perfumes"
-        ],
-        "brand": "Dior",
-        "sku": "E70NB03B",
-        "weight": 10,
-        "dimensions": {
-          "width": 21.51,
-          "height": 7,
-          "depth": 26.51
-        },
-        "warrantyInformation": "Lifetime warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Fast shipping!",
             "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Zoe Nicholson",
-            "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Addison Wright",
-            "reviewerEmail": "addison.wright@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Would buy again!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Clara Berry",
-            "reviewerEmail": "clara.berry@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "7 days return policy",
-        "minimumOrderQuantity": 8,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.619Z",
-          "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "0887083199279",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
-      }
-    },
-    {
-      "id": "163a",
-      "userId": "edfe",
-      "product": {
-        "id": "10",
-        "title": "Gucci Bloom Eau de",
-        "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
-        "category": "fragrances",
-        "price": 79.99,
-        "discountPercentage": 8.9,
-        "rating": 2.69,
-        "stock": 93,
-        "tags": [
-          "fragrances",
-          "perfumes"
-        ],
-        "brand": "Gucci",
-        "sku": "FFKZ6HOF",
-        "weight": 10,
-        "dimensions": {
-          "width": 22.28,
-          "height": 17.81,
-          "depth": 27.18
-        },
-        "warrantyInformation": "No warranty",
-        "shippingInformation": "Ships in 2 weeks",
-        "availabilityStatus": "In Stock",
-        "reviews": [
-          {
-            "rating": 5,
-            "comment": "Great value for money!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Aria Parker",
-            "reviewerEmail": "aria.parker@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Excellent quality!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Natalie Harris",
-            "reviewerEmail": "natalie.harris@x.dummyjson.com"
-          },
-          {
-            "rating": 4,
-            "comment": "Fast shipping!",
-            "date": "2024-05-23T08:56:21.620Z",
-            "reviewerName": "Ava Harris",
-            "reviewerEmail": "ava.harris@x.dummyjson.com"
-          }
-        ],
-        "returnPolicy": "No return policy",
-        "minimumOrderQuantity": 10,
-        "meta": {
-          "createdAt": "2024-05-23T08:56:21.620Z",
-          "updatedAt": "2024-05-23T08:56:21.620Z",
-          "barcode": "8232190382069",
-          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
-        },
-        "images": [
-          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
-        ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
-      }
-    },
-    {
-      "id": "bbf2",
-      "userId": "edfe",
-      "product": {
-        "id": "9",
-        "title": "Dolce Shine Eau de",
-        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
-        "category": "fragrances",
-        "price": 69.99,
-        "discountPercentage": 11.47,
-        "rating": 2.68,
-        "stock": 3,
-        "tags": [
-          "fragrances",
-          "perfumes"
-        ],
-        "brand": "Dolce & Gabbana",
-        "sku": "1NBFK980",
-        "weight": 5,
-        "dimensions": {
-          "width": 17,
-          "height": 24.57,
-          "depth": 13.3
-        },
-        "warrantyInformation": "5 year warranty",
-        "shippingInformation": "Ships in 1-2 business days",
-        "availabilityStatus": "Low Stock",
-        "reviews": [
-          {
-            "rating": 4,
-            "comment": "Very satisfied!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Xavier Wright",
-            "reviewerEmail": "xavier.wright@x.dummyjson.com"
+            "reviewerName": "Madison Collins",
+            "reviewerEmail": "madison.collins@x.dummyjson.com"
           },
           {
             "rating": 1,
             "comment": "Poor quality!",
             "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Mila Hernandez",
-            "reviewerEmail": "mila.hernandez@x.dummyjson.com"
-          },
-          {
-            "rating": 5,
-            "comment": "Very happy with my purchase!",
-            "date": "2024-05-23T08:56:21.619Z",
-            "reviewerName": "Sophia Brown",
-            "reviewerEmail": "sophia.brown@x.dummyjson.com"
+            "reviewerName": "Maya Reed",
+            "reviewerEmail": "maya.reed@x.dummyjson.com"
           }
         ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 9,
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 20,
         "meta": {
           "createdAt": "2024-05-23T08:56:21.619Z",
           "updatedAt": "2024-05-23T08:56:21.619Z",
-          "barcode": "1939383392674",
+          "barcode": "2210136215089",
           "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
         },
         "images": [
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
-          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
         ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
-      }
-    },
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+      },
+      "quantity": 1,
+      "id": "ZjMk1Al"
+    }
+  ],
+  "wishlist": [
     {
       "id": "54ba",
       "userId": "0bc3",
@@ -13777,67 +13322,68 @@
     {
       "userId": "edfe",
       "product": {
-        "id": "182",
-        "title": "Green Crystal Earring",
-        "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
-        "category": "womens-jewellery",
-        "price": 29.99,
-        "discountPercentage": 2.58,
-        "rating": 2.94,
-        "stock": 1,
+        "id": "7",
+        "title": "Chanel Coco Noir Eau De",
+        "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+        "category": "fragrances",
+        "price": 129.99,
+        "discountPercentage": 18.64,
+        "rating": 2.76,
+        "stock": 41,
         "tags": [
-          "fashion accessories",
-          "earrings"
+          "fragrances",
+          "perfumes"
         ],
-        "sku": "O7LSKAP2",
-        "weight": 10,
+        "brand": "Chanel",
+        "sku": "K71HBCGS",
+        "weight": 4,
         "dimensions": {
-          "width": 19.73,
-          "height": 14.54,
-          "depth": 15.92
+          "width": 21.27,
+          "height": 28,
+          "depth": 11.89
         },
-        "warrantyInformation": "3 year warranty",
+        "warrantyInformation": "1 week warranty",
         "shippingInformation": "Ships in 1 month",
-        "availabilityStatus": "Low Stock",
+        "availabilityStatus": "In Stock",
         "reviews": [
           {
-            "rating": 3,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "James Garcia",
-            "reviewerEmail": "james.garcia@x.dummyjson.com"
-          },
-          {
             "rating": 1,
-            "comment": "Very disappointed!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "Grayson Coleman",
-            "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+            "comment": "Disappointing product!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Lincoln Kelly",
+            "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
           },
           {
-            "rating": 2,
-            "comment": "Waste of money!",
-            "date": "2024-05-23T08:56:21.627Z",
-            "reviewerName": "Nolan Bryant",
-            "reviewerEmail": "nolan.bryant@x.dummyjson.com"
+            "rating": 4,
+            "comment": "Great product!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Lincoln Kelly",
+            "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+          },
+          {
+            "rating": 4,
+            "comment": "Excellent quality!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Lucas Allen",
+            "reviewerEmail": "lucas.allen@x.dummyjson.com"
           }
         ],
-        "returnPolicy": "30 days return policy",
-        "minimumOrderQuantity": 17,
+        "returnPolicy": "60 days return policy",
+        "minimumOrderQuantity": 5,
         "meta": {
-          "createdAt": "2024-05-23T08:56:21.627Z",
-          "updatedAt": "2024-05-23T08:56:21.627Z",
-          "barcode": "1370841315431",
+          "createdAt": "2024-05-23T08:56:21.619Z",
+          "updatedAt": "2024-05-23T08:56:21.619Z",
+          "barcode": "1435582999795",
           "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
         },
         "images": [
-          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/1.png",
-          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/2.png",
-          "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/3.png"
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
         ],
-        "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
       },
-      "id": "uJluMya"
+      "id": "p1Yc_7w"
     }
   ],
   "coupons": [
@@ -14275,6 +13821,74 @@
       "createdAt": "2024-09-09T18:09:10.443Z",
       "updatedAt": "2024-09-09T18:09:10.443Z",
       "id": 6
+    },
+    {
+      "page": {
+        "id": "9",
+        "title": "Dolce Shine Eau de",
+        "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+        "category": "fragrances",
+        "price": 69.99,
+        "discountPercentage": 11.47,
+        "rating": 2.68,
+        "stock": 3,
+        "tags": [
+          "fragrances",
+          "perfumes"
+        ],
+        "brand": "Dolce & Gabbana",
+        "sku": "1NBFK980",
+        "weight": 5,
+        "dimensions": {
+          "width": 17,
+          "height": 24.57,
+          "depth": 13.3
+        },
+        "warrantyInformation": "5 year warranty",
+        "shippingInformation": "Ships in 1-2 business days",
+        "availabilityStatus": "Low Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very satisfied!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Xavier Wright",
+            "reviewerEmail": "xavier.wright@x.dummyjson.com"
+          },
+          {
+            "rating": 1,
+            "comment": "Poor quality!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Mila Hernandez",
+            "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+          },
+          {
+            "rating": 5,
+            "comment": "Very happy with my purchase!",
+            "date": "2024-05-23T08:56:21.619Z",
+            "reviewerName": "Sophia Brown",
+            "reviewerEmail": "sophia.brown@x.dummyjson.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 9,
+        "meta": {
+          "createdAt": "2024-05-23T08:56:21.619Z",
+          "updatedAt": "2024-05-23T08:56:21.619Z",
+          "barcode": "1939383392674",
+          "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+          "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+      },
+      "userId": "edfe",
+      "createdAt": "2024-09-10T18:31:26.445Z",
+      "updatedAt": "2024-09-10T18:31:26.445Z",
+      "id": 7
     }
   ],
   "orders": [
