@@ -400,7 +400,7 @@
       "thumbnail": "/images/flavored-milk.jpg",
       "subCategory": "1.6"
     },
-    
+
     {
       "id": "6",
       "title": "Fresh Beef Cuts 500g",
@@ -1575,5 +1575,427 @@
   "carts": [],
   "wishlist": [],
   "orders": [],
-  "recently-viewed": []
+  "recently-viewed": [],
+  "sales":[
+    {
+      "id": "6",
+      "title": "Fresh Beef Cuts 500g",
+      "description": "500g of fresh beef cuts, perfect for grilling or cooking.",
+      "category": "meat",
+      "price": 4199.2,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 20,
+      "tags": ["beef", "meat", "cuts"],
+      "brand": "Local Farms",
+      "sku": "BFC06",
+      "weight": 0.5,
+      "dimensions": { "width": 20, "height": 15, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality beef cuts!",
+          "date": "2024-09-06",
+          "reviewerName": "Mohammed Ali"
+        },
+        {
+          "rating": 4,
+          "comment": "Good beef, but a bit expensive.",
+          "date": "2024-09-07",
+          "reviewerName": "Nadia Khan"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-06",
+        "updatedAt": "2024-09-06",
+        "barcode": "6666666666666",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/fresh-beef-cuts.jpg"],
+      "thumbnail": "/images/fresh-beef-cuts.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Ground Beef 500g",
+      "description": "500g of ground beef, perfect for burgers or meat sauces.",
+      "category": "meat",
+      "price": 3299.2,
+      "discountPercentage": 5.0,
+      "rating": 4.6,
+      "stock": 25,
+      "tags": ["beef", "meat", "ground"],
+      "brand": "Local Farms",
+      "sku": "GB07",
+      "weight": 0.5,
+      "dimensions": { "width": 20, "height": 15, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great texture and flavor!",
+          "date": "2024-09-07",
+          "reviewerName": "Jamil Ahmed"
+        },
+        {
+          "rating": 4,
+          "comment": "Good quality ground beef.",
+          "date": "2024-09-08",
+          "reviewerName": "Nadia Ali"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-07",
+        "updatedAt": "2024-09-07",
+        "barcode": "7777777777777",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/ground-beef.jpg"],
+      "thumbnail": "/images/ground-beef.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Beef Kebabs 500g",
+      "description": "500g of ready-to-cook beef kebabs.",
+      "category": "meat",
+      "price": 4899.2,
+      "discountPercentage": 12.0,
+      "rating": 4.7,
+      "stock": 15,
+      "tags": ["beef", "meat", "kebabs"],
+      "brand": "Local Farms",
+      "sku": "BK08",
+      "weight": 0.5,
+      "dimensions": { "width": 20, "height": 15, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Delicious and easy to cook!",
+          "date": "2024-09-08",
+          "reviewerName": "Asif Javed"
+        },
+        {
+          "rating": 4,
+          "comment": "Good taste but a bit spicy.",
+          "date": "2024-09-09",
+          "reviewerName": "Ayesha Khan"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-08",
+        "updatedAt": "2024-09-08",
+        "barcode": "8888888888888",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/beef-kebabs.jpg"],
+      "thumbnail": "/images/beef-kebabs.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Beef Steak Cuts 500g",
+      "description": "500g of premium beef steak cuts.",
+      "category": "meat",
+      "price": 6299.2,
+      "discountPercentage": 15.0,
+      "rating": 4.9,
+      "stock": 10,
+      "tags": ["beef", "meat", "steaks"],
+      "brand": "Local Farms",
+      "sku": "BSC09",
+      "weight": 0.5,
+      "dimensions": { "width": 20, "height": 15, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best steak cuts I’ve ever had!",
+          "date": "2024-09-09",
+          "reviewerName": "Rehan Aslam"
+        },
+        {
+          "rating": 4,
+          "comment": "Great quality, a bit pricey.",
+          "date": "2024-09-10",
+          "reviewerName": "Sadia Malik"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-09",
+        "updatedAt": "2024-09-09",
+        "barcode": "9999999999999",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/beef-steak-cuts.jpg"],
+      "thumbnail": "/images/beef-steak-cuts.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Eggs 12-Pack",
+      "description": "12 fresh farm eggs, packed neatly.",
+      "category": "dairy",
+      "price": 389.6,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 50,
+      "tags": ["eggs", "dairy"],
+      "brand": "Local Farms",
+      "sku": "EGGS10",
+      "weight": 0.7,
+      "dimensions": { "width": 15, "height": 10, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very fresh and high quality eggs!",
+          "date": "2024-09-10",
+          "reviewerName": "Hassan Khan"
+        },
+        {
+          "rating": 4,
+          "comment": "Good eggs, but a bit expensive.",
+          "date": "2024-09-11",
+          "reviewerName": "Aisha Shah"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-10",
+        "updatedAt": "2024-09-10",
+        "barcode": "1010101010101",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/eggs.jpg"],
+      "thumbnail": "/images/eggs.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Bread 400g",
+      "description": "400g of freshly baked bread.",
+      "category": "dairy",
+      "price": 219.6,
+      "discountPercentage": 8.0,
+      "rating": 4.5,
+      "stock": 30,
+      "tags": ["bread", "bakery"],
+      "brand": "Bake Parlour",
+      "sku": "BREAD11",
+      "weight": 0.4,
+      "dimensions": { "width": 20, "height": 10, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Soft and delicious bread!",
+          "date": "2024-09-11",
+          "reviewerName": "Ali Ahmed"
+        },
+        {
+          "rating": 4,
+          "comment": "Good bread, but could be softer.",
+          "date": "2024-09-12",
+          "reviewerName": "Maira Ali"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-11",
+        "updatedAt": "2024-09-11",
+        "barcode": "1111111110111",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/bread.jpg"],
+      "thumbnail": "/images/bread.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Cream 250g",
+      "description": "250g of fresh cream.",
+      "category": "dairy",
+      "price": 489.6,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 30,
+      "tags": ["cream", "dairy"],
+      "brand": "Nestle",
+      "sku": "CREAM12",
+      "weight": 0.25,
+      "dimensions": { "width": 10, "height": 10, "depth": 5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very rich and creamy!",
+          "date": "2024-09-11",
+          "reviewerName": "Sara Khan"
+        },
+        {
+          "rating": 4,
+          "comment": "Good cream, but slightly pricey.",
+          "date": "2024-09-12",
+          "reviewerName": "Hassan Tariq"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-11",
+        "updatedAt": "2024-09-11",
+        "barcode": "1212121212121",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/cream.jpg"],
+      "thumbnail": "/images/cream.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Paneer 250g",
+      "description": "250g of fresh paneer (Indian cheese).",
+      "category": "dairy",
+      "price": 549.6,
+      "discountPercentage": 10.0,
+      "rating": 4.7,
+      "stock": 20,
+      "tags": ["paneer", "dairy"],
+      "brand": "Local Farms",
+      "sku": "PANEER13",
+      "weight": 0.25,
+      "dimensions": { "width": 10, "height": 10, "depth": 5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1 day",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality paneer!",
+          "date": "2024-09-12",
+          "reviewerName": "Ali Raza"
+        },
+        {
+          "rating": 4,
+          "comment": "Good paneer, but a bit expensive.",
+          "date": "2024-09-13",
+          "reviewerName": "Sadia Khan"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-12",
+        "updatedAt": "2024-09-12",
+        "barcode": "1313131313131",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/paneer.jpg"],
+      "thumbnail": "/images/paneer.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Desi Ghee 1L",
+      "description": "1 liter of pure desi ghee.",
+      "category": "dairy",
+      "price": 1099.2,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 15,
+      "tags": ["ghee", "dairy"],
+      "brand": "Local Farms",
+      "sku": "GHEE14",
+      "weight": 1,
+      "dimensions": { "width": 10, "height": 20, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Authentic taste and quality!",
+          "date": "2024-09-13",
+          "reviewerName": "Nadia Khan"
+        },
+        {
+          "rating": 4,
+          "comment": "Good quality ghee.",
+          "date": "2024-09-14",
+          "reviewerName": "Hassan Shah"
+        }
+      ],
+      "returnPolicy": "5 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-13",
+        "updatedAt": "2024-09-13",
+        "barcode": "1414141414141",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/desi-ghee.jpg"],
+      "thumbnail": "/images/desi-ghee.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Milk Powder 500g",
+      "description": "500g of high-quality milk powder.",
+      "category": "dairy",
+      "price": 649.6,
+      "discountPercentage": 10.0,
+      "rating": 4.6,
+      "stock": 25,
+      "tags": ["milk powder", "dairy"],
+      "brand": "Nestle",
+      "sku": "MILKPOW15",
+      "weight": 0.5,
+      "dimensions": { "width": 15, "height": 20, "depth": 10 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great quality milk powder!",
+          "date": "2024-09-14",
+          "reviewerName": "Sara Ahmed"
+        },
+        {
+          "rating": 4,
+          "comment": "Good powder, but a bit pricey.",
+          "date": "2024-09-15",
+          "reviewerName": "Ali Raza"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-09-14",
+        "updatedAt": "2024-09-14",
+        "barcode": "1515151515151",
+        "qrCode": "/qr-code.png"
+      },
+      "images": ["/images/milk-powder.jpg"],
+      "thumbnail": "/images/milk-powder.jpg"
+    }
+  ]
 }
